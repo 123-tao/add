@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --main: #272437;
+  --tag: #0c73c2;
+  --light-bg: #4b4c84;
+  --light-border:#D6D7FB;
+  /* --light-main-color: #000000; */
+  --light-text: #FFFFFF;
+  
+  /* light鼠标hover背景色 */
+  --light-hover-bg: #272437;
+  --light-text-hover:#000;
+
+  /* 字体风格 */
+  --light-family:'SimSum';
+  
+}
